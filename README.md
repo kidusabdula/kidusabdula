@@ -1,4 +1,4 @@
-# Welcome to Versalbas 🌐
+# Welcome to VersaLbas 🌐
 
 Hi, I’m Kidus Abdula, the brain behind **Versalbas**—a startup crafting cutting-edge web, mobile, and full-stack solutions. We’re all about turning ideas into scalable, real-world applications with modern tech stacks like Next.js, React, Python, and more.
 
