@@ -1,9 +1,9 @@
-# Welcome to VersaLbas 🌐
+# Welcome to VersaLabs 🌐
 
-Hi, I’m Kidus Abdula, the brain behind **Versalbas**—a startup crafting cutting-edge web, mobile, and full-stack solutions. We’re all about turning ideas into scalable, real-world applications with modern tech stacks like Next.js, React, Python, and more.
+Hi, I’m Kidus Abdula, the brain behind **Versalabs**—a startup crafting cutting-edge web, mobile, and full-stack solutions. We’re all about turning ideas into scalable, real-world applications with modern tech stacks like Next.js, React, Python, and more.
 
 ## What We Do
-At Versalbas, we build:
+At Versalabs, we build:
 - **Web Apps:** Fast, responsive, and cloud-native.
 - **Mobile Apps:** Cross-platform experiences that delight users.
 - **Full-Stack Solutions:** From frontend flair to backend muscle.
@@ -17,6 +17,6 @@ Check out some of our work below—pinned repos are our flagship experiments and
 ## Get in Touch
 - 📧 [Email Us](mailto:your.email@example.com)
 - 🐦 [Follow on X](https://x.com/yourhandle)
-- 🌍 [Versalbas Portfolio](https://versalbas.com) *(Coming Soon!)*
+- 🌍 [Versalabs Portfolio](https://versalabs.com) *(Coming Soon!)*
 
 Building the future, one commit at a time. 🚀
