@@ -1,22 +1,40 @@
-# Welcome to VersaLabs 🌐
+<div align="center">
+  <h1>Kidus Abdula</h1>
+  <h3>Lead AI Software Engineer & Systems Architect | Founder @ VersaLabs Studio</h3>
+  <p>Building scalable enterprise systems, agentic workflows, and the infrastructure that powers them.</p>
+</div>
 
-Hi, I’m Kidus Abdula, the brain behind **Versalabs**—a startup crafting cutting-edge web, mobile, and full-stack solutions. We’re all about turning ideas into scalable, real-world applications with modern tech stacks like Next.js, React, Python, and more.
+---
 
-## What We Do
-At Versalabs, we build:
-- **Web Apps:** Fast, responsive, and cloud-native.
-- **Mobile Apps:** Cross-platform experiences that delight users.
-- **Full-Stack Solutions:** From frontend flair to backend muscle.
+### 🧠 The Engineering Philosophy
+I bridge the gap between complex enterprise architecture and artificial intelligence. I don't just build full-stack applications; I engineer autonomous SWE workflows, multi-model AI chains, and scalable backends utilizing strict Domain-Driven Design (DDD).
 
-## Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+My focus is on eliminating technical bloat through schema-first engineering (Next.js/Frappe) and accelerating development life-cycles via custom Model Context Protocol (MCP) integrations and LLM orchestration.
 
-## Featured Projects
-Check out some of our work below—pinned repos are our flagship experiments and MVPs!
+---
 
-## Get in Touch
-- 📧 [Email Us](mailto:your.email@example.com)
-- 🐦 [Follow on X](https://x.com/yourhandle)
-- 🌍 [Versalabs Portfolio](https://versalabs.com) *(Coming Soon!)*
+### ⚡️ Active Engineering Focus
 
-Building the future, one commit at a time. 🚀
+**1. JARVIS v1.0 (Autonomous SWE Orchestrator)**
+I built and self-host my own autonomous SWE workflow system. Running on a custom VPS/Docker stack, JARVIS utilizes an OpenRouter fallback chain (Nemtron-3-Super → GLM-5-Turbo → MiniMax) and custom MCP integrations to execute full-scale production engineering, architecture planning, and agentic office automation. 
+
+**2. ThreatMatrix AI (Enterprise Cyber Intelligence)**
+An enterprise-grade cybersecurity platform providing real-time network anomaly detection. It combines Isolation Forests, Random Forests, and Autoencoders with multi-provider LLMs to deliver predictive threat analysis and automated incident response inside a military-grade War Room command center.
+
+---
+
+### 🏗️ Enterprise Deployments & Architecture
+To test my architectural theories in a live market, I founded **VersaLabs Studio**. All of my production deployments, client B2B contracts, and flagship enterprise architectures are hosted there. 
+
+**👉 [Explore my production work at VersaLabs](https://github.com/VersaLabs)**
+
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frappe_Framework-000000?style=for-the-badge&logo=frappe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <br/>
+  <i>LLM Chains | Agentic Workflows | Model Context Protocol (MCP) | Domain-Driven Design</i>
+</div>
