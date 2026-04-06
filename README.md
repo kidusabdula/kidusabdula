@@ -26,7 +26,7 @@ An enterprise-grade cybersecurity platform providing real-time network anomaly d
 ### 🏗️ Enterprise Deployments & Architecture
 To test my architectural theories in a live market, I founded **VersaLabs Studio**. All of my production deployments, client B2B contracts, and flagship enterprise architectures are hosted there. 
 
-**👉 [Explore my production work at VersaLabs](https://github.com/VersaLabs)**
+**👉 [Explore my production work at VersaLabs](https://github.com/VersaLabs-studio)**
 
 <div align="center">
   <br/>
