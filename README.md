@@ -26,11 +26,11 @@ Custom business software: ERP systems, e-commerce stores, AI tools and websites.
 
 | Project | What it is | Links |
 | :--- | :--- | :--- |
-| **SafeFrame** | Video content detection that runs entirely on the device: no server, no upload. A two-tier model cascade (MobileNetV2, then a quantized ViT on hardware that can take it) ships as a PWA, an Android app and a browser extension over one typed core. Built in two days against an external brief. | [Live](https://safeframe-livid.vercel.app) · [Source](https://github.com/kidusabdula/safe-frame) |
-| **Obsidian ERP** | A multi-module ERP (CRM, sales, inventory, manufacturing, accounting) used by 4 paying SME clients. Next.js and Frappe. | [Case study](https://www.versalabs-studio.com/products/obsidian-erp) |
+| **SafeFrame** | Video content detection that runs entirely on the device: no server, no upload. A two-tier model cascade (MobileNetV2, then a quantized ViT on hardware that can take it) ships as a PWA, an Android app and a browser extension over one typed core. Built in two days against an external brief. | [Product page](https://www.versalabs-studio.com/products/safeframe) · [Live](https://safeframe-livid.vercel.app) · [Source](https://github.com/kidusabdula/safe-frame) |
+| **Obsidian ERP** | A multi-module ERP (CRM, sales, inventory, manufacturing, accounting) used by 4 paying SME clients. Next.js and Frappe. | [Product page](https://www.versalabs-studio.com/products/obsidian-erp) |
 | **PrintOnline.et** | A live printing storefront: an 8-step order pipeline, a matrix pricing engine, and Chapa payments with webhook verification. | [Live](https://printonline.et) |
-| **ThreatMatrix AI** | My BSc capstone, built in a team of four. An ML ensemble (isolation forest, autoencoder, random forest) scores network flows over Redis Pub/Sub, and an LLM gateway explains each alert in plain language. FastAPI and Next.js. | [Case study](https://www.versalabs-studio.com/work/threatmatrix-ai) |
-| **JARVIS** | A self-hosted AI coding assistant: multi-model routing with fallback, MCP integrations (GitHub, Vercel, Notion), and schema-validated guardrails on every tool call. | [Case study](https://www.versalabs-studio.com/products/jarvis) |
+| **ThreatMatrix AI** | My BSc capstone, built in a team of four. An ML ensemble (isolation forest, autoencoder, random forest) scores network flows over Redis Pub/Sub, and an LLM gateway explains each alert in plain language. FastAPI and Next.js. | — |
+| **JARVIS** | A self-hosted AI coding assistant: multi-model routing with fallback, MCP integrations (GitHub, Vercel, Notion), and schema-validated guardrails on every tool call. | — |
 
 More work is on the studio site: [client work](https://www.versalabs-studio.com/work) and [our own products](https://www.versalabs-studio.com/products).
 
